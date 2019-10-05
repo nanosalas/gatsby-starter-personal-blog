@@ -2,36 +2,12 @@
 title: About
 ---
 
-This is a demo site of the [PersonalBlog](https://github.com/greglobinski/gatsby-starter-personal-blog) GatsbyJS starter.
+Soy Luis F. Salas y soy el autor de este Blog. Durante los &uacute;ltimos diez años me he dedicado al marketing de manera profesional con un enfasis en mercadeo digital en los últimos seis. 
 
-The starter is a ready to use, easy to customize 'like theme' starter. It has everything what blog should have and some more.
+Soy un apasionado de la tecnolog&iacute;a y amante de la m&uacute;sica.
 
-### Standard features:
+### Links Sociales:
 
-* Easy editable content in **Markdown** files (posts, pages and parts)
-* **SEO** (sitemap generation, robot.txt, meta and OpenGraph Tags)
-* **Social** sharing (Twitter, Facebook, Google, LinkedIn)
-* **Comments** (Facebook)
-* **Images** lazy loading and `webp` support (gatsby-image)
-* Post **categories** (post list filtering)
-* Full text **searching** (Algolia)
-* **Contact** form (Netlify form handling)
-* **RSS** feed
-* **PWA** (manifest.json, offline support, favicons)
-* Google **Analytics**
-* **Favicons** generator (node script)
-* **Material UI** (@next)
-
-### Advanced features:
-
-* Easy customizable base **styles** via `theme` object (fonts, colors, sizes)
-* **Components** lazy loading (social sharing, comments)
-* **ESLint** (google config)
-* **Prettier** code styling
-* Custom webpack `CommonsChunkPlugin` settings
-* Webpack `BundleAnalyzerPlugin`
-* Contact **form validation** (react-material-ui-form-validator)
-
-## Instructions
-
-For detailed instructions go to [Front-end web development with Greg](https://dev.greglobinski.com/gatsby-starter-personal-blog/).
+* [Facebook] (https://www.facebook.com/nanosalas)
+* [Twitter] (https://twitter.com/Luis_Salas)
+* [Linkedin] (https://www.linkedin.com/in/luisalas/)
