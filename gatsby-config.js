@@ -98,6 +98,12 @@ module.exports = {
               wrapperStyle: `margin-bottom: 2em`
             }
           },
+          {
+            resolve: "gatsby-transformer-remark",
+            options: {
+              plugins: ["gatsby-remark-embed-spotify"]
+            }
+          }
           `gatsby-remark-prismjs`,
           `gatsby-remark-copy-linked-files`,
           `gatsby-remark-smartypants`
