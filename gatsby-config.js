@@ -47,7 +47,8 @@ module.exports = {
   },
   plugins: [
     `gatsby-plugin-react-next`,
-    {
+    /* Algolia es un servicio para buscar todo el sitio se debe de configurar 
+   {
       resolve: `gatsby-plugin-algolia`,
       options: {
         appId: process.env.ALGOLIA_APP_ID ? process.env.ALGOLIA_APP_ID : "",
@@ -57,6 +58,7 @@ module.exports = {
         chunkSize: 10000 // default: 1000
       }
     },
+   */
     {
       resolve: `gatsby-source-filesystem`,
       options: {
